@@ -1,1 +1,2 @@
-# animation
+# Plan-fight
+game of javascript 
